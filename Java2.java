@@ -29,6 +29,8 @@ class Bicycle {
 public class Java2 {
      public static void main(String[] args) {
 
+
+          
         // Create two different 
         // Bicycle objects
         Bicycle bike1 = new Bicycle();
